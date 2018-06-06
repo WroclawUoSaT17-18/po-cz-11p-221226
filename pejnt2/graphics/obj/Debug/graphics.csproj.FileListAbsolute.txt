@@ -1,0 +1,21 @@
+c:\users\kuba\desktop\graphics\graphics\bin\Debug\graphics.exe.config
+c:\users\kuba\desktop\graphics\graphics\obj\Debug\graphics.csprojResolveAssemblyReference.cache
+c:\users\kuba\desktop\graphics\graphics\obj\Debug\graphics.Form1.resources
+c:\users\kuba\desktop\graphics\graphics\obj\Debug\graphics.Properties.Resources.resources
+c:\users\kuba\desktop\graphics\graphics\obj\Debug\graphics.csproj.GenerateResource.Cache
+c:\users\kuba\desktop\graphics\graphics\bin\Debug\graphics.exe
+c:\users\kuba\desktop\graphics\graphics\bin\Debug\graphics.pdb
+c:\users\kuba\desktop\graphics\graphics\obj\Debug\graphics.exe
+c:\users\kuba\desktop\graphics\graphics\obj\Debug\graphics.pdb
+C:\Users\Piotr Wawrocki\Desktop\pejnt2\graphics\graphics\bin\Debug\graphics.exe.config
+C:\Users\Piotr Wawrocki\Desktop\pejnt2\graphics\graphics\obj\Debug\graphics.exe
+C:\Users\Piotr Wawrocki\Desktop\pejnt2\graphics\graphics\obj\Debug\graphics.pdb
+C:\Users\Piotr Wawrocki\Desktop\pejnt2\graphics\graphics\bin\Debug\graphics.exe
+C:\Users\Piotr Wawrocki\Desktop\pejnt2\graphics\graphics\bin\Debug\graphics.pdb
+C:\Users\Piotr Wawrocki\Desktop\pejnt2\graphics\graphics\obj\Debug\graphics.csprojResolveAssemblyReference.cache
+C:\Users\Piotr Wawrocki\Desktop\pejnt2\graphics\graphics\obj\Debug\graphics.Form1.resources
+C:\Users\Piotr Wawrocki\Desktop\pejnt2\graphics\graphics\obj\Debug\graphics.Properties.Resources.resources
+C:\Users\Piotr Wawrocki\Desktop\pejnt2\graphics\graphics\obj\Debug\graphics.csproj.GenerateResource.Cache
+C:\Users\Piotr Wawrocki\Desktop\pejnt2\graphics\bin\Debug\graphics.exe.config
+C:\Users\Piotr Wawrocki\Desktop\pejnt2\graphics\obj\Debug\graphics.exe
+C:\Users\Piotr Wawrocki\Desktop\pejnt2\graphics\obj\Debug\graphics.pdb
